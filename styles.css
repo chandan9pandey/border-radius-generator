@@ -33,7 +33,7 @@ body {
 	border-radius: 50px;
 	text-align: center;
 }
-.input[type="range"]::-webkit-slider-thumb {
+input[type="range"]::-webkit-slider-thumb {
 	-webkit-appearance: none;
 	height: 30px;
 	width: 30px;
